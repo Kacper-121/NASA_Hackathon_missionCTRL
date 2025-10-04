@@ -124,5 +124,3 @@ class Default(WorkerEntrypoint):
             "notes": "All estimates are rough heuristics for demo/educational purposes."
         }
         return Response(json.dumps(resp), content_type="application/json")
-
-# Add handling for simulate endpoint (this is an example of async POST handling)
