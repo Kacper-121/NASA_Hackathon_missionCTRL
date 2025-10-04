@@ -1,4 +1,4 @@
-name = "hello-python"
+name = "nasa-hackathon"
 main = "worker/main.py"
 compatibility_flags = ["python_workers"]
 compatibility_date = "2025-08-14"
